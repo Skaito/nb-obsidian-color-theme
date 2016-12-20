@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE fontscolors PUBLIC "-//NetBeans//DTD Editor Fonts and Colors settings 1.1//EN" "http://www.netbeans.org/dtds/EditorFontsColors-1_1.dtd">
+
+<fontscolors>
+	<fontcolor name="argument" default="markup-attribute"/>
+	<fontcolor name="block-comment" default="comment"/>
+	<fontcolor name="character" default="char"/>
+	<fontcolor name="error" default="error"/>
+	<fontcolor name="operator" default="operator"/>
+	<fontcolor name="sgml-comment" default="comment"/>
+	<fontcolor name="sgml-declaration" foreColor="D39745"/>
+	<fontcolor name="tag" default="markup-element"/>
+	<fontcolor name="text" default="default"/>
+	<fontcolor name="value" default="markup-attribute-value"/>
+	<fontcolor name="ws" default="whitespace"/>
+	<fontcolor name="css-embedded" default="default"/>
+	<fontcolor name="javascript-embedded" default="default"/>
+</fontscolors>

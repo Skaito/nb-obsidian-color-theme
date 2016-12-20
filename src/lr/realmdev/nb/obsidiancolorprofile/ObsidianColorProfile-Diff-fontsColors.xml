@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE fontscolors PUBLIC "-//NetBeans//DTD Editor Fonts and Colors settings 1.1//EN" "http://www.netbeans.org/dtds/EditorFontsColors-1_1.dtd">
+
+<fontscolors>
+    <fontcolor name="mark-occurrences" default="mark-occurrences" />
+	
+	<fontcolor name="filename" default="markup-attribute" />
+    <fontcolor name="removed" default="comment"/>
+    <fontcolor name="added" default="string"/>
+    <fontcolor name="plain" default="default" />
+    <fontcolor name="header" default="markup-element" />
+    <fontcolor name="index" default="markup-attribute" />
+	
+</fontscolors>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE fontscolors PUBLIC "-//NetBeans//DTD Editor Fonts and Colors settings 1.1//EN" "http://www.netbeans.org/dtds/EditorFontsColors-1_1.dtd">
+
+<fontscolors>
+	<fontcolor name="default" foreColor="E0E2E4" bgColor="293134">
+		<font name="DejaVu Sans Mono" />
+	</fontcolor>
+	<!-- was: Constant -->
+    <fontcolor name="char" foreColor="FF8409" />
+    <fontcolor name="comment" foreColor="818E96">
+        <font style="italic" />
+    </fontcolor>
+    <fontcolor name="error" waveUnderlined="yellow" />
+    <fontcolor name="identifier" default="default" />
+    <fontcolor name="keyword" foreColor="93C763">
+		<font style="bold" />
+	</fontcolor>
+	<fontcolor name="variable" foreColor="678CB1" />
+    <fontcolor name="number" foreColor="FFCD22" />
+    <fontcolor name="operator" foreColor="E8E2B7" />
+    <fontcolor name="string" foreColor="EC7600" />
+    <fontcolor name="whitespace" />
+	<fontcolor name="mark-occurrences" bgColor="38566f" />
+    
+    <!-- OO languages -->    
+    <fontcolor name="field" default="identifier" />
+    <fontcolor name="method" default="identifier" />
+    
+    <!-- Tag based languages -->
+    
+	<fontcolor name="markup-element" foreColor="678CB1">
+		<font style="bold" />
+	</fontcolor>
+	<fontcolor name="markup-attribute" foreColor="B3B689"/>
+    <fontcolor name="markup-attribute-value" foreColor="E1E2CF" />
+    <fontcolor name="entity-reference" default="default" />
+	<fontcolor name="separator" foreColor="E8E2B7" />
+</fontscolors>

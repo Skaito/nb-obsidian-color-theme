@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE fontscolors PUBLIC "-//NetBeans//DTD Editor Fonts and Colors settings 1.1//EN" "http://www.netbeans.org/dtds/EditorFontsColors-1_1.dtd">
+
+<fontscolors>
+    <fontcolor name="mark-occurrences" default="mark-occurrences" />
+		
+	<fontcolor name="equals" default="variable" />
+    <fontcolor name="section" default="markup-element" />
+    <fontcolor name="section_delim" default="markup-element" />
+    <fontcolor name="value" default="default" />
+    <fontcolor name="key" default="markup-attribute" />
+	
+</fontscolors>
