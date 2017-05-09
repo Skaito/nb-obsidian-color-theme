@@ -4,4 +4,6 @@
 <fontscolors>
     <fontcolor name="mark-occurrences" default="mark-occurrences" />
 	<fontcolor name="variable" default="variable" />
+	<fontcolor name="number" foreColor="FFCD22" />
+	<fontcolor name="heredocdelimiter" default="string" />
 </fontscolors>

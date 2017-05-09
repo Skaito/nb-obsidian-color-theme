@@ -10,5 +10,6 @@
 	<fontcolor name="variable" default="variable" />
 	<fontcolor name="tag" default="markup-element" />
 	<fontcolor name="tagparam" default="string" />
+	<fontcolor name="number" default="number" />
 	
 </fontscolors>
