@@ -12,4 +12,20 @@
 	<fontcolor name="MULTI_LINE_COMMENT" default="comment" />
 	<fontcolor name="KDOC_TAG_NAME" default="doc-comment-identifier" />
 	<fontcolor name="KDOC_LINK" default="doc-comment-tag" />
+	
+	<fontcolor name="mod-field" default="field" />
+    <fontcolor name="mod-class" default="class" />
+    <fontcolor name="mod-interface" default="interface" />
+	<fontcolor name="mod-enum" default="enum" />
+    <fontcolor name="mod-parameter" default="method-parameter" />
+    <fontcolor name="mod-static" default="static" />
+    <fontcolor name="mod-custom1" />
+    <fontcolor name="mod-custom2" />
+    <fontcolor name="mod-deprecated" default="deprecated" />
+    <fontcolor name="mod-annotation-type" default="interface" />
+    <fontcolor name="mod-declaration" default="identifier">
+        <font style="bold" />
+    </fontcolor>
+    <fontcolor name="mod-type-parameter-use" default="identifier" />
+    <fontcolor name="mod-local-variable" default="local-variable" />
 </fontscolors>

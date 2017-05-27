@@ -3,5 +3,5 @@ AutoUpdate-Show-In-Client: true
 OpenIDE-Module: lr.realmdev.nb.obsidiancolorprofile
 OpenIDE-Module-Layer: lr/realmdev/nb/obsidiancolorprofile/layer.xml
 OpenIDE-Module-Localizing-Bundle: lr/realmdev/nb/obsidiancolorprofile/Bundle.properties
-OpenIDE-Module-Specification-Version: 1.0.8
+OpenIDE-Module-Specification-Version: 1.0.9
 
