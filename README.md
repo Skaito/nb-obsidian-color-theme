@@ -5,7 +5,7 @@ Obsidian Color Theme for NetBeans IDE
 
 This is plugin that adds Obsidian code coloring (highlighting) Theme for [NetBeans IDE](https://netbeans.org/).
 
-Theme contains coloring for Java, JavaScript, PHP, CSS, HTML, XML, Groovy, Python, TypeScript and some other.
+Theme contains coloring for Java, Kotlin, JavaScript, PHP, CSS, HTML, XML, Groovy, Python, TypeScript and some other.
 
 After installation go to "Tools" -> "Options" -> "Fonts & Colors" -> "Profile", choose "Obsidian Color Profile" and click "OK".
 
