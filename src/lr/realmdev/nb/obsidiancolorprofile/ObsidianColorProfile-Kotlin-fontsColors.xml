@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE fontscolors PUBLIC "-//NetBeans//DTD Editor Fonts and Colors settings 1.1//EN" "http://www.netbeans.org/dtds/EditorFontsColors-1_1.dtd">
+
+<fontscolors>
+	<fontcolor name="mark-occurrences" default="mark-occurrences" />
+	<fontcolor name="KEYWORD" default="keyword" />
+	<fontcolor name="WHITESPACE" default="whitespace" />
+	<fontcolor name="IDENTIFIER" default="identifier" />
+	<fontcolor name="STRING" default="string" />
+	<fontcolor name="ANNOTATION" default="interface" />
+	<fontcolor name="SINGLE_LINE_COMMENT" default="comment" />
+	<fontcolor name="MULTI_LINE_COMMENT" default="comment" />
+	<fontcolor name="KDOC_TAG_NAME" default="doc-comment-identifier" />
+	<fontcolor name="KDOC_LINK" default="doc-comment-tag" />
+</fontscolors>

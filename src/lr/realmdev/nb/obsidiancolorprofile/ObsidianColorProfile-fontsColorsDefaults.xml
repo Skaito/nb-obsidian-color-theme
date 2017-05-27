@@ -10,6 +10,12 @@
     <fontcolor name="comment" foreColor="818E96">
         <font style="italic" />
     </fontcolor>
+	<fontcolor name="doc-comment-tag" default="comment">
+		<font style="bold" />
+	</fontcolor>
+	<fontcolor name="doc-comment-identifier" default="comment" foreColor="FFFFFF">
+		<font style="plain" />
+	</fontcolor>
     <fontcolor name="error" waveUnderlined="yellow" />
     <fontcolor name="identifier" default="default" />
     <fontcolor name="keyword" foreColor="93C763">
@@ -25,6 +31,8 @@
     <!-- OO languages -->    
     <fontcolor name="field" default="identifier" />
     <fontcolor name="method" default="identifier" />
+    <fontcolor name="class" default="identifier" />
+    <fontcolor name="interface" default="identifier" />
     
     <!-- Tag based languages -->
     

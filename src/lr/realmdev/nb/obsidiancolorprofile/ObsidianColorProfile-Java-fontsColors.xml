@@ -17,33 +17,6 @@
 	<fontcolor name="whitespace" default="whitespace"/>
     
 	<!--"semantic" highlighting:-->
-	<fontcolor name="mod-unused" foreColor="gray"/>
-	<fontcolor name="mod-abstract" />
-	<fontcolor name="mod-field" foreColor="098618" >
-		<font style="bold" />
-	</fontcolor>
-	<fontcolor name="mod-local-variable" />
-	<fontcolor name="mod-parameter" foreColor="A06001"/>
-	<fontcolor name="mod-method" >
-		<font style="bold" />
-	</fontcolor>
-	<fontcolor name="mod-constructor" >
-		<font style="bold" />
-	</fontcolor>
-	<fontcolor name="mod-class" />
-	<fontcolor name="mod-interface" />
-	<fontcolor name="mod-annotation-type" />
-	<fontcolor name="mod-enum" />
-	<fontcolor name="mod-deprecated" strikeThrough="404040" />
-	<fontcolor name="mod-static" >
-		<font style="italic" />
-	</fontcolor>
-	<fontcolor name="mod-private" />
-	<fontcolor name="mod-package-private" />
-	<fontcolor name="mod-protected" />
-	<fontcolor name="mod-public" />
-
-	<!--"semantic" highlighting:-->
     
 	<fontcolor name="mod-constructor-declaration" default="constructor" />
 	<fontcolor name="mod-constructor" default="constructor" />
@@ -98,10 +71,10 @@
 	</fontcolor>
    
 	<!-- JavadocTokenId categories -->
-	<fontcolor name="javadoc-tag" default="comment">
+	<fontcolor name="javadoc-tag" default="doc-comment-tag">
 		<font style="bold" />
 	</fontcolor>
-	<fontcolor name="javadoc-identifier" default="comment"/>
+	<fontcolor name="javadoc-identifier" default="doc-comment-identifier"/>
 	<fontcolor name="javadoc-first-sentence" default="comment"/>
     
 	<fontcolor name="html-tag" foreColor="428BDD" default="default"/>

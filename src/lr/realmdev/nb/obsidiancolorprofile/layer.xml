@@ -133,6 +133,15 @@
                     </folder>
                 </folder>
             </folder>
+			<folder name="x-kt">
+                <folder name="FontsColors">
+                    <folder name="Obsidian Color Profile">
+                        <folder name="Defaults">
+							<file name="org-netbeans-modules-editor-kotlin-token-colorings.xml" url="ObsidianColorProfile-Kotlin-fontsColors.xml"/>
+						</folder>
+                    </folder>
+                </folder>
+            </folder>
             <folder name="x-jsp">
                 <folder name="FontsColors">
                     <folder name="Obsidian Color Profile">
